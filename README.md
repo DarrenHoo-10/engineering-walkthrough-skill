@@ -59,6 +59,14 @@ Typical requests:
 - "Use $engineering-walkthrough to document the full lifecycle of this business object."
 - "Use $engineering-walkthrough and sync the finished document to Feishu."
 
+## Example Output
+
+The screenshots below come from a walkthrough generated for `flowable/flowable-engine`, tracing a BPMN process from deployment, start, user task creation, task completion, and process end.
+
+![Flowable BPMN walkthrough overview](assets/examples/flowable-bpmn-overview.png)
+
+![Flowable BPMN ER diagram with table structures](assets/examples/flowable-bpmn-er.png)
+
 ## Validate
 
 If you have Codex's built-in `skill-creator` validation script available:
