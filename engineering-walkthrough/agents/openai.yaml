@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Walkthrough"
+  short_description: "可复制的复杂工程全链路梳理与文档沉淀规范"
+  default_prompt: "Use $engineering-walkthrough to梳理复杂工程或业务链路，并沉淀源码证据型 Markdown/飞书文档。"
