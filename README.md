@@ -31,14 +31,14 @@ Clone this repository, then copy the skill directory into your Codex skills dire
 Windows PowerShell:
 
 ```powershell
-git clone https://github.com/<owner>/engineering-walkthrough-skill.git
+git clone https://github.com/DarrenHoo-10/engineering-walkthrough-skill.git
 Copy-Item -Recurse -Force .\engineering-walkthrough-skill\engineering-walkthrough "$env:USERPROFILE\.codex\skills\engineering-walkthrough"
 ```
 
 macOS/Linux:
 
 ```bash
-git clone https://github.com/<owner>/engineering-walkthrough-skill.git
+git clone https://github.com/DarrenHoo-10/engineering-walkthrough-skill.git
 mkdir -p ~/.codex/skills
 cp -R engineering-walkthrough-skill/engineering-walkthrough ~/.codex/skills/
 ```
